@@ -12,11 +12,8 @@ A hands-on project by **Matheesha** to demonstrate how to build a simple **Linea
 - [🛠️ Technologies Used](#-technologies-used)
 - [📁 Project Structure](#-project-structure)
 - [⚙️ How It Works](#-how-it-works)
-- [🚀 Installation](#-installation)
-- [▶️ Run the Project](#️-run-the-project)
-- [📊 Sample Output](#-sample-output)
-- [📄 License](#-license)
-- [🙋‍♂️ Author](#-author)
+
+
 
 ---
 
@@ -42,16 +39,7 @@ This project demonstrates how to:
 
 ---
 
-## 📁 Project Structure
 
-AI_HousePriceEstimator/
-│
-├── house_price_estimator.py # Main script
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies (optional)
-
-
----
 
 ## ⚙️ How It Works
 
@@ -84,14 +72,5 @@ Instead of a real dataset, random data is generated for:
 
 ---
 
-## 🚀 Installation
 
-Install the necessary libraries using pip:
-
-```bash
-pip install numpy pandas scikit-learn matplotlib
-
-
-Matheesha
-Student | Developer | AI Enthusiast
 
