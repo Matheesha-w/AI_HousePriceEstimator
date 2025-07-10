@@ -1,6 +1,4 @@
-# AI_HousePriceEstimator
-
-# 🧠 AI_HousePriceEstimator
+# 🧠 HousePriceEstimator
 
 A hands-on project by **Matheesha** to demonstrate how to build a simple **Linear Regression** model that estimates house prices using **synthetic data**. The model learns to predict house prices based on square footage and the number of bedrooms.
 
